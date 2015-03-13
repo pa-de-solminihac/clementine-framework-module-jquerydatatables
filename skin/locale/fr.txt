@@ -1,0 +1,18 @@
+{
+	"sProcessing": "Chargement en cours...",
+	"sLengthMenu": "_MENU_ éléments par page",
+	"sZeroRecords": "Aucun élément trouvé.",
+	"sInfo": "_START_ à _END_ sur _TOTAL_ éléments",
+	"sInfoEmpty": "0 à 0 sur 0 éléments",
+	"sInfoFiltered": "(filtré(s) parmi _MAX_ éléments)",
+	"sInfoPostFix": "",
+	"sSearch": "",
+	"searchPlaceholder": "chercher dans la liste",
+	"sUrl": "",
+	"oPaginate": {
+		"sFirst":    "&laquo;",
+		"sPrevious": "&lsaquo;",
+		"sNext":     "&rsaquo;",
+		"sLast":     "&raquo;"
+	}
+}
